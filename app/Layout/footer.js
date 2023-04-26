@@ -55,15 +55,16 @@ export default function footer() {
               <div className="my-6 ">
 
                 <p className="text-base flex gap-4 " > <BsTelephone className="mt-1" /> Hotline 24/7:</p>
-                <h3 className="text-2xl text-color font-bold  ml-8 ">(+019) 47377893</h3>
+                <h3 className="text-2xl text-color font-bold  ml-8 ">01947-
+                  377893</h3>
               </div>
               <div className="flex gap-4 text-color text-[18px]">
                 <AiOutlineHome />
-                <p> 959 Homestead Street Eastlake, NYC</p>
+                <p> Gazipur Dhaka Bangladesh</p>
               </div >
 
               <div className="flex text-color items-center gap-4">
-                <HiOutlineMail /> support@farmart.com
+                <HiOutlineMail />mdjamirul802@gmail.com
 
               </div>
             </div>
